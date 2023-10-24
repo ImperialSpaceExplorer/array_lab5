@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maslab5", "maslab5\maslab5.csproj", "{0F3440F4-0418-4406-8044-63B5E618C988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3440F4-0418-4406-8044-63B5E618C988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3440F4-0418-4406-8044-63B5E618C988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3440F4-0418-4406-8044-63B5E618C988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3440F4-0418-4406-8044-63B5E618C988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034BE3C2-EA11-4464-9F0A-E944C599CC08}
+	EndGlobalSection
+EndGlobal
